@@ -4,6 +4,8 @@ public class lab6 {
 
 public static void main(String args)
 {
-	System.out.println("clone Version 1");
+
+	System.out.println("Master Version 2");
+
 }
 }
